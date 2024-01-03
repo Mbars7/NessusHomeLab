@@ -2,11 +2,11 @@
 
 <p align="center">
 Nessus Credentialed Scan Results: <br/>
-<img src="https://i.imgur.com/QJskAg7.jpg"/>
-<br />
-<br />
+<img src="https://i.imgur.com/sAbfYrN.jpg"/>
+<br>
+<br>
 Nessus Credentialed Scan Results After Remediation:  <br/>
-<img src="https://i.imgur.com/DfNs4KZ.jpg"/>
+<img src="https://i.imgur.com/zefxYjQ.jpg"/>
 </p>
 
 <h2>Description</h2>
@@ -57,10 +57,6 @@ Install deprecated Firefox:  <br/>
 <br />
 Activate Credentialed Scan:  <br/>
 <img src="https://i.imgur.com/xUeCsdB.jpg"/>
-<br />
-<br />
-Credentialed Scan Results:  <br/>
-<img src="https://i.imgur.com/rroQ6NS.jpg"/>
 </p>
 
 Credit for Home Lab: [Josh Madakor](https://www.youtube.com/watch?v=lT6Px9zJM3s&t=127s&ab_channel=JoshMadakor)
