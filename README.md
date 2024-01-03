@@ -1,5 +1,13 @@
 <h1>Nessus Home Lab</h1>
 
+<p align="center">
+Nessus Credentialed Scan Results: <br/>
+<img src="https://i.imgur.com/QJskAg7.jpg"/>
+<br />
+<br />
+Nessus Credentialed Scan Results After Remediation:  <br/>
+<img src="https://i.imgur.com/DfNs4KZ.jpg"/>
+</p>
 
 <h2>Description</h2>
 In this lab, I gained some hands-on experience with setting up and running credentialed scans using Nessus.  I started by creating a Windows 10 virtual machine with WMware Workstation 17 player and bridged the network settings so my home computer and the VM were on the same network.  I then created an account with Nessus and designed a credentialed scan for the Windows 10 VM.  At this point, I changed some settings on the VM, including disabling the firewall and adding a registry key (per Nessus instructions).  Before running the scan, I installed a deprecated version of Firefox and the results  came back as expected.  Finally, I remediated the vast majority of the vulnerabilities and ran a secondary scan for confirmation.    
@@ -53,10 +61,6 @@ Activate Credentialed Scan:  <br/>
 <br />
 Credentialed Scan Results:  <br/>
 <img src="https://i.imgur.com/rroQ6NS.jpg"/>
-<br />
-<br />
-Credentialed Scan Results After Remediation:  <br/>
-<img src=""/>
 </p>
 
 Credit for Home Lab: [Josh Madakor](https://www.youtube.com/watch?v=lT6Px9zJM3s&t=127s&ab_channel=JoshMadakor)
