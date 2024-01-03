@@ -6,9 +6,10 @@ In this lab, I learned how to set up Active Directory on my home computer using 
 <br /><br>
 
 - Installed and configured Nessus Essentials to perform credentialed vulnerability scans on Windows 10 Hosts<BR>
-- Implemented Vulnerability Management Function on sandbox networks: Discover, Prioritize, Assess, Report, Remediate, Verify<br>
+- Implemented Vulnerability Management Function on sandbox networks:
+     - Discover, Prioritize, Assess, Report, Remediate, Verify<br>
 - Conducted vulnerability assessments with Nessus; remediated vulnerabilities<br>
-- Developed automated remedi<b></b>.
+- Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.<b></b>.
 
 <h2>Languages and Utilities Used</h2>
 
