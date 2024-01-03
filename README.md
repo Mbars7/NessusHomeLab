@@ -23,32 +23,40 @@ In this lab, I gained some hands-on experience with setting up and running crede
 <h2>Project Snapshots:</h2>
 
 <p align="center">
-Oracle VM VirtualBox: <br/>
-<img src="https://i.imgur.com/AL0Ssgs.jpg"/>
+Nessus Installation: <br/>
+<img src=""/>
 <br />
 <br />
-Installed Server Roles:  <br/>
-<img src="https://i.imgur.com/C7cVUsC.jpg"/>
+VM Installation (VMware Workstation 17 Player):  <br/>
+<img src=""/>
 <br />
 <br />
-IP Settings: <br/>
-<img src="https://i.imgur.com/zcGL1Q5.jpg"/>
+Disable firewall on VM: <br/>
+<img src=""/>
 <br />
 <br />
-DHCP Setup:  <br/>
-<img src="https://i.imgur.com/rVYLS25.jpg"/>
+Enable Remote Registry on VM:  <br/>
+<img src=""/>
 <br />
 <br />
-Active Directory Users:  <br/>
-<img src="https://i.imgur.com/xIVkb0N.jpg"/>
+Create Registry Key:  <br/>
+<img src=""/>
 <br />
 <br />
-Active Directory Computers:  <br/>
-<img src="https://i.imgur.com/zEnop5P.jpg"/>
+Install deprecated Firefox:  <br/>
+<img src=""/>
 <br />
 <br />
-Client Login:  <br/>
-<img src="https://i.imgur.com/jQGki5m.jpg"/>
+Activate Credentialed Scan:  <br/>
+<img src=""/>
+<br />
+<br />
+Credentialed Scan Results:  <br/>
+<img src=""/>
+<br />
+<br />
+Credentialed Scan Results After Remediation:  <br/>
+<img src=""/>
 </p>
 
 Credit for Home Lab: [Josh Madakor](https://www.youtube.com/watch?v=lT6Px9zJM3s&t=127s&ab_channel=JoshMadakor)
