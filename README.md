@@ -24,7 +24,7 @@ In this lab, I gained some hands-on experience with setting up and running crede
 
 <p align="center">
 Nessus Installation: <br/>
-<img src="https://i.imgur.com/lzElPHx.jpg"/>
+<img src="https://i.imgur.com/HsbHj7V.jpg"/>
 <br />
 <br />
 VM Installation (VMware Workstation 17 Player):  <br/>
