@@ -24,35 +24,35 @@ In this lab, I gained some hands-on experience with setting up and running crede
 
 <p align="center">
 Nessus Installation: <br/>
-<img src=""/>
+<img src="https://i.imgur.com/lzElPHx.jpg"/>
 <br />
 <br />
 VM Installation (VMware Workstation 17 Player):  <br/>
-<img src=""/>
+<img src="https://i.imgur.com/5njKY4I.jpg"/>
 <br />
 <br />
 Disable firewall on VM: <br/>
-<img src=""/>
+<img src="https://i.imgur.com/lz02Zkd.jpg"/>
 <br />
 <br />
 Enable Remote Registry on VM:  <br/>
-<img src=""/>
+<img src="https://i.imgur.com/IOKVtXM.jpg"/>
 <br />
 <br />
 Create Registry Key:  <br/>
-<img src=""/>
+<img src="https://i.imgur.com/nC6KbY2.jpg"/>
 <br />
 <br />
 Install deprecated Firefox:  <br/>
-<img src=""/>
+<img src="https://i.imgur.com/4P8R4rd.jpg"/>
 <br />
 <br />
 Activate Credentialed Scan:  <br/>
-<img src=""/>
+<img src="https://i.imgur.com/xUeCsdB.jpg"/>
 <br />
 <br />
 Credentialed Scan Results:  <br/>
-<img src=""/>
+<img src="https://i.imgur.com/rroQ6NS.jpg"/>
 <br />
 <br />
 Credentialed Scan Results After Remediation:  <br/>
