@@ -4,10 +4,11 @@
 <h2>Description</h2>
 In this lab, I learned how to set up Active Directory on my home computer using Oracle Virtual Box.  I went through the process of installing both a Windows 10 client VM and a Server 2019 domain controller VM.  I then installed Active Directory domain services and created a dedicated domain, organizational unit, and administrator account.  Next, I installed and configured the network settings of both VMs to mimic an office environment and ran a PowerShell script to create approximately a thousand users.  At this point, I was able to successfully log on to the Windows 10 client through the domain using the usernames and passwords I added to the server. 
 <br /><br>
-- Active Directory Administration: using PowerShell to automate provisioning and maintenance of users accounts.<BR>
-- Setting up Remote Access Server (RAS) features to support NAT/PAT<br>
-- Implementation and maintenance of Windows DNS and DHCP services<br>
-- Configuration of Windows File Servers with implementation quotas and NTFS permissions<b></b>.
+
+- Installed and configured Nessus Essentials to perform credentialed vulnerability scans on Windows 10 Hosts<BR>
+- Implemented Vulnerability Management Function on sandbox networks: Discover, Prioritize, Assess, Report, Remediate, Verify<br>
+- Conducted vulnerability assessments with Nessus; remediated vulnerabilities<br>
+- Developed automated remedi<b></b>.
 
 <h2>Languages and Utilities Used</h2>
 
