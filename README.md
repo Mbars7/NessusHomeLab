@@ -17,7 +17,7 @@ In this lab, I gained some hands-on experience with setting up and running crede
 - Implemented Vulnerability Management Function on sandbox networks:
      - Discover, Prioritize, Assess, Report, Remediate, Verify<br>
 - Conducted vulnerability assessments with Nessus; remediated vulnerabilities<br>
-- Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.<b></b>.
+- Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.<b></b>
 
 <h2>Languages and Utilities Used</h2>
 
